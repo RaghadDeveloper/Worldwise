@@ -37,51 +37,15 @@
       "id": "98443197"
     },
     {
-      "id": "e60a",
-      "cityName": "Akdagmadeni",
+      "id": "7bee",
+      "cityName": "Tekman",
       "country": "Turkiye",
       "emoji": "🇹🇷",
-      "date": "2025-05-24T04:18:08.029Z",
+      "date": "2025-05-24T06:55:56.478Z",
       "notes": "",
       "position": {
-        "lat": "39.70784817913577",
-        "lng": "35.85927171991101"
-      }
-    },
-    {
-      "id": "155d",
-      "cityName": "Amasya",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2025-05-24T04:18:08.029Z",
-      "notes": "",
-      "position": {
-        "lat": "40.61009357201188",
-        "lng": "35.67179265831958"
-      }
-    },
-    {
-      "id": "996a",
-      "cityName": "Tokat",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2025-05-24T04:20:13.894Z",
-      "notes": "",
-      "position": {
-        "lat": "40.25635790720041",
-        "lng": "36.56074243861613"
-      }
-    },
-    {
-      "id": "b673",
-      "cityName": "Tokat",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2025-05-24T04:20:13.894Z",
-      "notes": "",
-      "position": {
-        "lat": "40.25635790720041",
-        "lng": "36.56074243861613"
+        "lat": "39.98179692540616",
+        "lng": "41.28022877990668"
       }
     }
   ]
