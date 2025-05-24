@@ -47,6 +47,30 @@
         "lat": "39.98179692540616",
         "lng": "41.28022877990668"
       }
+    },
+    {
+      "id": "f676",
+      "cityName": "Trabzon",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-05-24T08:26:14.158Z",
+      "notes": "",
+      "position": {
+        "lat": "41.20776444606353",
+        "lng": "39.39088587873998"
+      }
+    },
+    {
+      "id": "dbe7",
+      "cityName": "Mikhaylovsk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-05-24T08:26:21.507Z",
+      "notes": "",
+      "position": {
+        "lat": "44.92613520926771",
+        "lng": "42.030315957234585"
+      }
     }
   ]
 }
